@@ -1,0 +1,4 @@
+C:\Users\Alejandro\Desktop\TrianguloDePascal\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe
+C:\Users\Alejandro\Desktop\TrianguloDePascal\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.pdb
+C:\Users\Alejandro\Desktop\TrianguloDePascal\TrianguloDePascal\TrianguloDePascal\obj\x86\Debug\TrianguloDePascal.exe
+C:\Users\Alejandro\Desktop\TrianguloDePascal\TrianguloDePascal\TrianguloDePascal\obj\x86\Debug\TrianguloDePascal.pdb

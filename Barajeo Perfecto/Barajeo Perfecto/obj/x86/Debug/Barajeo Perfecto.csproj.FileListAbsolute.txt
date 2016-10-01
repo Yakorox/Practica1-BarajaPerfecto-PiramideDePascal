@@ -1,0 +1,4 @@
+C:\Users\Alejandro\Desktop\Practica-Baraja-Piramide de Pascal\Barajeo Perfecto\Barajeo Perfecto\bin\Debug\Barajeo Perfecto.exe
+C:\Users\Alejandro\Desktop\Practica-Baraja-Piramide de Pascal\Barajeo Perfecto\Barajeo Perfecto\bin\Debug\Barajeo Perfecto.pdb
+C:\Users\Alejandro\Desktop\Practica-Baraja-Piramide de Pascal\Barajeo Perfecto\Barajeo Perfecto\obj\x86\Debug\Barajeo Perfecto.exe
+C:\Users\Alejandro\Desktop\Practica-Baraja-Piramide de Pascal\Barajeo Perfecto\Barajeo Perfecto\obj\x86\Debug\Barajeo Perfecto.pdb
